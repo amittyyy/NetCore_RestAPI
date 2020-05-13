@@ -1,0 +1,5 @@
+Author:- Amit timalsina (amittyyy@gmail.com)
+
+URL:- https://localhost:5001/swagger/index.html
+Products
+URL:- https://localhost:5001/api/products
